@@ -1,0 +1,12 @@
+[
+    {
+      "username": "diocane",
+      "password": "12345",
+      "permessi": [
+        "owner",
+        "admin",
+        "helper"
+      ]
+    }
+
+]

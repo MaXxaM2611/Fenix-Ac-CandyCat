@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;900&display=swap");
+
+.login-form {
+  transition: all 0.3s;
+  margin: auto;
+  margin-top: 16%;
+  width: 25rem;
+  border-radius: 10px;
+  padding: 10px;
+  background: #242832;
+  border: 1px solid rgba(255, 255, 255, 0.315);
+  box-shadow: 0px 0px 14px 1px rgba(0, 0, 0, 0.267);
+}
+
+.login-form:hover {
+  transition: all 0.2s;
+  transform: translateY(-10px);
+  box-shadow: 0px 0px 14px 1px rgba(0, 0, 0, 0.52);
+}
+
+.login-form h3 {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  letter-spacing: 1px;
+}
+
+.login-form h6 {
+  color: rgba(255, 255, 255, 0.904);
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  margin: 5px;
+}
+
+.input-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.css-input {
+  padding: 5px;
+  font-size: 16px;
+  border-width: 1.5px;
+  border-color: #dd2e44;
+  background-color: #ffffff10;
+  color: #ffffff;
+  border-style: solid;
+  border-radius: 8px;
+  box-shadow: 1px 1px 12px rgba(66, 66, 66, 0.36);
+  text-shadow: 0px 0px 5px rgba(66, 66, 66, 0.75);
+}
+
+.css-input:focus {
+  color: rgba(255, 255, 255, 0.753);
+  letter-spacing: 1px;
+  outline: none;
+}
+
+.css-input:focus {
+  outline: none;
+}
+
+@media screen and (max-width: 992px) {
+  .login-form {
+    width: 20rem;
+  }
+}
+
+.button-login {
+  padding: 10px;
+  text-align: center;
+  color: #91959b;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  border-radius: 7px;
+  text-decoration: none;
+  transition: all 0.3s;
+  letter-spacing: 0.2px;
+  background-color: #dd2e4557;
+}
+
+.button-login:hover {
+  background-color: #DD2E44;
+  transition: all 0.2s;
+  border-radius: 12px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.alertbox{
+  margin-bottom: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 7px;
+  letter-spacing: 0.7px;
+  padding: 7px;
+  background-color: #dd2e4593;
+  text-align: center;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.alertbox:hover {
+  color: #fff;
+}
+
+
+.login-form .negro {
+  display: block;
+  width: 270px;
+  margin-left: auto;
+  margin-right: auto;
+}

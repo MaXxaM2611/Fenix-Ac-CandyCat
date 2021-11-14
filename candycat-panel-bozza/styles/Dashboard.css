@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+
+.dashcontainer {
+  display: flex !important;
+  margin: 10px;
+  margin-left: 15.6rem;
+  margin-top: 40px;
+}
+
+.normalcontainer {
+  margin-left: -15.6rem;
+}
+
+@media screen and (max-width: 750px) {
+  .title{
+    margin-left: 10px;
+  }
+  .with-navbar-container {
+    display: none;
+  }
+  .Sidebar {
+    margin-top: 0px !important;
+  }
+  .hamburger {
+    margin-top: 10px;
+  }
+}
+
+.containerinfo {
+  margin-left: 10px;
+  width: 100%;
+  height: auto;
+  background-color: #262626;
+  border-radius: 10px;
+}
+
+.section-title {
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+  opacity: 0.9;
+  font-weight: normal;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.ricercati {
+  height: 82%;
+  overflow: auto;
+  padding-bottom: 50px;
+  padding: 40px;
+}
+
+.input-login {
+  background-color: transparent;
+  color: #fff;
+}
+
+.input-login#active {
+  background-color: transparent;
+}
+
+.input-login:focus {
+  background-color: rgba(0, 0, 0, 0.39) !important;
+  color: #fff;
+}
+
+.searchbar {
+  height: 30px;
+  margin-left: 40px;
+}
+
+.playerpanel {
+  transition: all 0.3s;
+  padding: 15px;
+  background-color: rgb(24, 24, 24);
+  color: #fff;
+  border-radius: 7px;
+  display: space-between;
+  cursor: pointer;
+  border: 1px solid transparent;
+  margin: 10px;
+}
+
+.playerpanel:hover {
+  transition: all 0.2s;
+  border: 1px solid #dd2e44;
+}
+
+.playerpanel .action-row {
+  display: flex;
+  float: right;
+  margin-top: -40px;
+}
+
+.playerpanel .action-row h4 {
+  transition: all 0.3s;
+  margin: 7px;
+  text-transform: uppercase;
+}
+
+.playerpanel .playername {
+    transition: all 0.3s;
+    font-weight: normal;
+    opacity: 0.7;
+}
+
+.playerpanel:hover .playername {
+    transition: all 0.2s;
+    opacity: 1;
+    letter-spacing: 1px;
+}
+
+@media screen and (max-width: 992px){
+    .playerpanel .action-row{
+        float: left;
+        margin-top: 0px;
+    }
+    .playerpanel{
+        height: 130px;
+    }
+}
+
+.iconplayer{
+    margin-top: -5px;
+}
+
+.playerpanel .action-row .ban:hover {
+  transition: all 0.2s;
+  color: #dd2e44;
+  letter-spacing: 1px;
+}
+
+.playerpanel .action-row .kick:hover {
+    transition: all 0.2s;
+    color: #dd7d2e;
+    letter-spacing: 1px;
+}
+
+.playerpanel .action-row .info:hover {
+    transition: all 0.2s;
+    color: #2e97dd;
+    letter-spacing: 1px;
+}

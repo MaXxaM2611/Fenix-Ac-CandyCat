@@ -1,0 +1,205 @@
+
+.firstgrid{
+    margin: 20px;
+    cursor: pointer;
+    transition: all 0.3s;
+    background-color: rgba(209, 209, 209, 0.05);
+    box-shadow: 0px 0px 6px rgba(255, 255, 255, 0.05);
+    border-radius: 22px;
+    padding: 20px;
+  }
+
+  .firstgridcontainer{
+    margin: 20px;
+  }
+  
+  .firstgrid h1, .secondgrid h1{
+    font-family: 'Roboto';
+    word-break: break-all;
+    width: auto;
+    color: #dfdfdf;
+    margin: 0;
+    font-weight: normal;
+    font-size: 53px;
+  }
+  
+  .firstgrid p{
+    margin: 0;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.017em;
+  
+    color: #dfdfdfaf;
+  }
+  
+  .license {
+    word-break: break-word;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 39px;
+    line-height: 46px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.017em;
+    
+    color: #DFDFDF;
+    
+    filter: blur(10px);
+  }
+  
+  .firstgrid:hover .license{
+    transition: all 0.2s;
+    filter: blur(0px);
+  }
+
+
+
+  .secondgrid{
+    margin: 40px;
+    cursor: pointer;
+    transition: all 0.3s;
+    background-color: rgba(209, 209, 209, 0.05);
+    box-shadow: 0px 0px 6px rgba(255, 255, 255, 0.05);
+    border-radius: 22px;
+    padding: 20px;
+  }
+
+  .role{
+      display: flex;
+  }
+
+  .role h3{
+    color: #fff;
+  }
+
+  .role h3 span{
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: normal;
+    font-size: 12px;
+  }
+
+  .checkboxtrue {
+    margin: 10px;
+    width: 69px;
+    height: 69px;
+    left: 1547px;
+    background: linear-gradient(223.39deg, #17EB39 0%, rgba(18, 245, 177, 0.76) 102.98%);
+    border-radius: 20px;
+    padding: 17px;
+  }
+
+  .checkboxfalse {
+    margin: 10px;
+    width: 69px;
+    height: 69px;
+    left: 1547px;
+    background: linear-gradient(223.39deg, #E32828 0%, rgba(235, 57, 32, 0.9) 102.98%);
+    border-radius: 20px;
+    padding: 20px;
+  }
+
+  .planes{
+      margin-left: 39px;
+      display: flex;
+      align-items: center;
+  }
+
+  .infinity{
+    width: 106px;
+    height: 105px;
+    left: 462px;
+    top: 571px;
+
+    background: rgba(221, 46, 68, 0.5);
+    border: 5px solid #DD2E44;
+    box-sizing: border-box;
+    border-radius: 30px;
+  }
+
+  .threemonths{
+    width: 106px;
+    height: 105px;
+    left: 643px;
+    top: 589px;
+    margin-left: 30px;
+    background: rgba(206, 163, 11, 0.12);
+    border: 6px solid #CEA30B;
+    box-sizing: border-box;
+    border-radius: 30px;
+  }
+
+  .onemonth{
+    width: 106px;
+    height: 105px;
+    left: 799px;
+    top: 589px;
+    margin-left: 30px;
+    background: linear-gradient(0deg, rgba(167, 100, 34, 0.12), rgba(167, 100, 34, 0.12));
+    border: 6px solid #AD651D;
+    box-sizing: border-box;
+    border-radius: 30px;
+  }
+
+  .titless{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .yourplane{
+    width: 114px;
+    height: 113px;
+    margin-top: -13rem;
+    float: right;
+    background: linear-gradient(0deg, #A76422, #A76422);
+    border: 5px solid rgba(167, 100, 34, 0.12);
+    box-shadow: 0px 0px 53px rgba(167, 100, 34, 0.07);
+    border-radius: 38px;
+  }
+
+  .plan-name{
+        padding-left: 38px;
+        text-align: center;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 21px;
+        line-height: 25px;
+        /* identical to box height */
+
+        display: flex;
+        align-items: center;
+        letter-spacing: -0.017em;
+
+        color: #DFDFDF;
+  }
+
+  .rightspacer{
+    margin-left: 30rem;
+    position: fixed;
+    height: 20%;
+    width: 1px;
+    background-color: rgba(196, 196, 196, 0.25);
+  }
+
+  .othenplanes{
+    padding-left: 80px;
+  }
+
+  .currentplane{
+    padding-right: 60px;
+  }
+
+  .imageicon{
+    margin-top: 17px;
+    margin-left: 15px;
+  }

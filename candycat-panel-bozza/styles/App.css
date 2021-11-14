@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.ricercati::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.ricercati {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+body{/* 
+  background-color: #1F1F26; */
+  background-image: url("https://i.imgur.com/jvoReIp.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0;
+}
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgba(255, 255, 255, 0.589) !important;
+  opacity: 1; /* Firefox */
+}
+
+h6 {
+  color: rgba(255, 255, 255, 0.719);
+  font-weight: normal;
+}
+
+.searchicon {
+  color: rgba(255, 255, 255, 0.589);
+  position: fixed;
+  margin-left: 23rem;
+  margin-top: 14px;
+}
+
+
+.normal-container{
+  margin-left: 18rem;
+}
+
+.title{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 58px;
+  line-height: 68px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.017em;
+  margin-left: 40px;
+  color: #DFDFDF;
+}
+
+.withnav-container{
+  margin-left: 30px;
+}
+
+.grids-container{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
