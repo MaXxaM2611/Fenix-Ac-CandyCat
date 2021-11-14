@@ -1,0 +1,25 @@
+{
+    
+    "Obj_MaxSpawnCheck":            true,
+    "Obj_MaxSpawn":                   5,
+
+    "Obj_MaxSpawnDiscordLog":       true,
+    "Obj_MaxSpawnedBanSistem":      true,
+    "Obj_MaxSpawnedKickSistem":     true,
+
+
+    "Obj_DiscordLog":               true,
+    "Obj_BanSistem":                true,
+    "Obj_KickSistem":               true,
+
+    "Obj_ConsoleDebug":             true,
+
+    "Obj_Allowist": [
+       "asdasd"
+    ],
+
+    "Obj_Blacklist": [
+        "prop_mp_spike_01"
+    ]
+
+}

@@ -1,0 +1,119 @@
+{
+    "Owner": {
+
+        "misc": {
+            "allclientdetect":  true,
+            "spectate":         true,
+            "explosion":        true,
+            "particle":         true
+        },
+
+        "give": {
+            "vehicle":      true,
+            "weapon":       true,
+            "object":       true,
+            "ped":          true
+        },
+
+        "delete": {
+
+            "ped":          true,
+            "props":        true,
+            "vehicle":      true,
+            "all":          true
+        },
+
+        "administration": {
+
+            "ban":          true,
+            "sban":         true,
+            "screen":       true
+        }
+    },
+
+
+    "Admin": {
+
+        "misc": {
+        
+            "spectate":     true,
+            "explosion":    true,
+            "particle":    true
+        },
+
+        "give": {
+
+            "vehicle":      true,
+            "weapon":       true,
+            "object":       true,
+            "ped":          true
+        },
+
+        "delete": {
+
+            "ped":          true,
+            "props":        true,
+            "vehicle":      true,
+            "all":          true
+        },
+
+        "administration": {
+
+            "ban":          true,
+            "sban":         true,
+            "screen":       true
+        }
+
+    },
+
+    "Helper": {
+
+        "misc": {
+        
+            "spectate":     true,
+            "explosion":    true,
+            "particle":    true
+        },
+
+        "give": {
+
+            "vehicle":          true,
+            "weapon":       true,
+            "object":       true,
+            "ped":          true
+        },
+
+        "delete": {
+
+            "ped":          true,
+            "props":        true,
+            "vehicle":      true,
+            "all":          true
+        },
+
+        "administration": {
+
+            "ban":          true,
+            "sban":         true,
+            "screen":       true
+        }
+
+    },
+
+
+    "Owner_Identifier":     [
+        "sdsa",
+        "ddasdas"
+    ],  
+
+    "Admin_Identifier":     [
+        "sdsa",
+        "ddasdas"
+    ],  
+
+    "Helper_Identifier":    [
+        "sdsa",
+        "ddasdas"
+    ]    
+
+}

@@ -1,0 +1,45 @@
+{
+
+    
+    "Veh_MaxSpawnCheck":            true,
+    "Veh_MaxSpawn":                     10,
+
+    "Veh_MaxSpawnDiscordLog":       true,
+    "Veh_MaxSpawnedBanSistem":      true,
+    "Veh_MaxSpawnedKickSistem":     true,
+
+    "Veh_AllowistZoneControll":     true,
+    "Veh_AllowistZone": {
+
+       "1": {
+           "name": "Concessionario",
+            "x":-647.66760253906, "y": -1445.1527099609,"z": 10.653074264526,
+            "Radius": 30.0,
+            "ConsoleDebug": true
+        },
+        "2": {
+            "name": "Test 2",
+             "x":0.0, "y": 0.0,"z": 0.0,
+             "Radius": 30.0,
+             "ConsoleDebug": true
+         }
+    },
+
+
+    "Veh_DiscordLog":               true,
+    "Veh_BanSistem":                true,
+    "Veh_KickSistem":               true,
+
+    "Veh_ConsoleDebug":             true,
+
+
+    
+    "Veh_Allowist": [
+        "blista"
+    ],
+
+    "Veh_Blacklist": [
+        "t20"
+    ]
+
+}

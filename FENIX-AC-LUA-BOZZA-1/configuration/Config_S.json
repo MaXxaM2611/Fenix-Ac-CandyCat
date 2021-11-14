@@ -1,0 +1,50 @@
+{
+    "KickReason": "Sei un ebreo",
+    "BanToken": true,
+    "Logs": {
+        
+        "Discord": {
+
+            "Dropped":      true,
+            "Connecting":   true,
+
+
+            "Webhooks": {
+
+                "generic":      "https://discord.com/api/webhooks/868062796682784788/IHr00lVZpR_eS66kqILHKj0-HIRSydj2T2DPfgHAgJR85cJT9_WKFrvGZBHNhs1hWnIa",
+                "explosion":    "https://discord.com/api/webhooks/868062796682784788/IHr00lVZpR_eS66kqILHKj0-HIRSydj2T2DPfgHAgJR85cJT9_WKFrvGZBHNhs1hWnIa",
+                "peds":         "https://discord.com/api/webhooks/868062796682784788/IHr00lVZpR_eS66kqILHKj0-HIRSydj2T2DPfgHAgJR85cJT9_WKFrvGZBHNhs1hWnIa",
+                "vehicle":      "https://discord.com/api/webhooks/868062796682784788/IHr00lVZpR_eS66kqILHKj0-HIRSydj2T2DPfgHAgJR85cJT9_WKFrvGZBHNhs1hWnIa",
+                "object":       "https://discord.com/api/webhooks/868062796682784788/IHr00lVZpR_eS66kqILHKj0-HIRSydj2T2DPfgHAgJR85cJT9_WKFrvGZBHNhs1hWnIa",
+                "particle":     "https://discord.com/api/webhooks/868062796682784788/IHr00lVZpR_eS66kqILHKj0-HIRSydj2T2DPfgHAgJR85cJT9_WKFrvGZBHNhs1hWnIa"
+
+            }
+        },
+        "Console": {
+
+            "Dropped":      true,
+            "Connecting":   true
+        }
+    },
+
+    "client_cheat_ban":{
+        
+        "tazeplayer":       false,
+        "aimbot":           false,
+        "freecam":          false,
+        "blacklist_weapon": false,
+        "antispectate":     false
+    },
+
+    "client_cheat_kick":{
+
+        "tazeplayer":       false,
+        "aimbot":           false,
+        "freecam":          false,
+        "blacklist_weapon": false,
+        "antispectate":     false
+    }
+    
+    
+
+}

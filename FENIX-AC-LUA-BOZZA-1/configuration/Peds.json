@@ -1,0 +1,26 @@
+{
+    
+    
+    "Ped_MaxSpawnCheck":            true,
+    "Ped_MaxSpawn":                     5,
+
+    "Ped_MaxSpawnDiscordLog":       true,
+    "Ped_MaxSpawnedBanSistem":      true,
+    "Ped_MaxSpawnedKickSistem":     true,
+
+
+    "Ped_DiscordLog":               true,
+    "Ped_BanSistem":                true,
+    "Ped_KickSistem":               true,
+
+    "Ped_ConsoleDebug":             true,
+
+    "Ped_Allowist": [
+        "asdasd"
+    ],
+
+    "Ped_Blacklist": [
+        "asdasd"
+    ]
+
+}

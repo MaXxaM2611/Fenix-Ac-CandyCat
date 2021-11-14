@@ -1,0 +1,11 @@
+{
+    "Pt_DiscordLog":               true,
+    "Pt_BanSistem":                true,
+    "Pt_KickSistem":               true,
+
+    "Pt_ConsoleDebug":             true,
+
+    "Pt_Allowist": [
+       "scr_firework_xmas_burst_rgw"
+    ]
+}

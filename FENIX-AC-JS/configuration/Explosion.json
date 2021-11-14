@@ -1,0 +1,398 @@
+{
+    "0": 
+        {
+            "name":            "Grenade", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug":    true
+        },
+    "1": 
+        {
+            "name":            "GrenadeLauncher", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug":    true
+        },
+    "2": 
+        {
+            "name":            "PipeBoomb", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },
+    "3": 
+        {
+            "name":            "PipeBoomb", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+            
+        },  
+    "4": 
+        {
+            "name":            "Molotov", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },
+    "5": 
+        {
+            "name":            "TankShell", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },    
+    "6": 
+        {
+            "name":            "Hi_Octane", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        }, 
+    "7": 
+        {
+            "name":            "Car", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    2,
+            "console_debug": true
+        },
+    "8": 
+        {
+            "name":            "Plance", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },       
+    "9": 
+        {
+            "name":            "PetrolPump", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },     
+    "10": 
+        {
+            "name":            "Bike", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },    
+    "11": 
+        {
+            "name":            "Dir_Steam", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },      
+    "12": 
+        {
+            "name":            "Dir_Flame", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        }, 
+    "13": 
+        {
+            "name":            "Dir_Water_Hydrant", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        }, 
+    "14": 
+        {
+            "name":            "Dir_Gas_Canister", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        }, 
+    "15": 
+        {
+            "name":            "Boat", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        }, 
+    "16": 
+        {
+            "name":            "Ship_Destroy", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },
+    "17": 
+        {
+            "name":            "Truck", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },    
+    "18": 
+        {
+            "name":            "Bullet", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },      
+    "19": 
+        {
+            "name":            "SmokeGrenadeLauncher", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },
+    "20": 
+        {
+            "name":            "SmokeGrenade", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },
+    "21": 
+        {
+            "name":            "BZGAS", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        }, 
+    "22": 
+        {
+            "name":            "Flare", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },  
+    "23": 
+        {
+            "name":            "Gas_Canister", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },
+    "24": 
+        {
+            "name":            "Extinguisher", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },            
+    "25": 
+        {
+            "name":            "Programmablear", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        }, 
+    "26": 
+        {
+            "name":            "Train", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },
+    "27": 
+        {
+            "name":            "Barrel", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        }, 
+    "28": 
+        {
+            "name":            "PROPANE", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },  
+    "29": 
+        {
+            "name":            "Blimp", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        }, 
+    "30": 
+        {
+            "name":            "Dir_Flame_Explode", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },      
+    "31": 
+        {
+            "name":            "Tanker", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },
+    "32": 
+        {
+            "name":            "PlaneRocket", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        }, 
+    "33": 
+        {
+            "name":            "VehicleBullet", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },         
+    "34": 
+        {
+            "name":            "Gas_Tank", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },
+    "35": 
+        {
+            "name":            "FireWork", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },
+    "36": 
+        {
+            "name":            "SnowBall", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        }, 
+    "37": 
+        {
+            "name":            "ProxMine", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        },  
+    "38": 
+        {
+            "name":            "Valkyrie_Cannon", 
+            "log":             true,	
+            "ban":             true,	
+            "cancelevent":     true,	
+            "checkbypass":     true,	
+            "maxexplosion":    1,
+            "console_debug": true
+        }      
+}
+
+
+
+
+

@@ -1,0 +1,25 @@
+{
+
+    "player_": "Il player ID: ",
+
+    "explosion_detect_1": " Created Detected explosion:",
+    "object_created_max":  " Spawnded Max Object",
+    "object_created":  " Spawnded Blacklisted Object",
+
+    "ped_created": " Spawnded Blacklisted Peds",
+    "vehicle_created_max":  " Spawnded Max Vehicle",
+    "vehicle_created": " Spawnded Blacklisted Vehicle",
+    "vehicle_created_allowist_zone":  " Spawnded Max Vehicle in Allowisted Zone",
+    "ped_created_max": " Spawnded Max Peds",
+    "particle_created": " Spawnded Blacklisted Particle",
+
+    "event_distance_controll": "Triggered an event exceeding the maximum distance",
+    "event_error_argument": "Triggered an event by getting the arguments wrong",
+    "client_cheat":{
+        "tazeplayer":       "Anti Taze Player Detected",
+        "aimbot":           "Anti AntiAimbot Detected",
+        "freecam":          "Anti Freecam Detected",
+        "blacklist_weapon": "Anti BlacklistWeapon Detected",
+        "antispectate":     "Anti Spectate Detected"
+    }
+}

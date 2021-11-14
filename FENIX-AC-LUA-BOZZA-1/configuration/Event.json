@@ -1,0 +1,64 @@
+
+
+{
+    "EventControll": true,
+
+    "EventList":{
+
+            "pizzajob:daisoldi": { 
+                "Par1": { "type": "number",     "max_value": 10000 },
+                "Par2": { "type": "string"},
+
+                "MaxDistanceTriggered": { 
+                    "Controll": true,
+                    "x": -608.91632080078, "y": -1243.0590820312, "z":12.478562355042, 
+                    "Radius": 10.0, 
+                    "Ban": false, 
+                    "Kick": false, 
+                    "ConsoleDebug": true
+                }
+            },
+
+            "sdasdasdasd":{
+                "Par1": 10000,
+                "Par2": "source",
+
+                "MaxDistanceTriggered": { 
+                    "x": 0.0, "y": 0.0, "z": 0.0, 
+                    "Radius": 10.0, 
+                    "Ban": false, 
+                    "Kick": false, 
+                    "ConsoleDebug": true
+                }
+            }
+    },
+
+
+    "EventBlacklist": false,
+
+    "EventBlacklistList":[
+        "esx:trigger:blacklist",
+        "esx_trigger_blacklist"
+    ]
+}
+
+
+/*
+    "ESEMPIO":{
+
+
+        "Par1": { "type": "number",     "max_value": 10000 },
+        "Par1": { "type": "number",     "forcevalue": 100 },
+        "Par1": { "type": "string",     "forcevalue": "blista"},
+        "Par1": { "type": "string"},
+        "Par1": { "type": "table"},
+        "Par1": null,
+
+        "Par2": { "type": "number",     "max_value": 10000 },
+        "Par2": { "type": "number",     "forcevalue": 100 },
+        "Par2": { "type": "string",     "forcevalue": "blista"},
+        "Par2": { "type": "string"},
+        "Par2": { "type": "table"},
+        "Par2": null
+    },
+*/

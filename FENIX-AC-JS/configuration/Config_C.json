@@ -1,0 +1,67 @@
+[{
+
+
+    "ScreenKey": {
+
+        "Enable": true,
+
+        "BlacklistKey": {
+            "a": 19
+        }
+
+    },
+
+
+
+    "AntiGiveWeapon": {
+
+        "Enable": true,
+
+        "BlacklistWeapon": [
+            "WEAPON_PISTOL"
+        ]
+
+    },
+
+    "AntiFreeCam": {
+
+        "Enable": true,
+
+        "DistanceControll": 10,
+
+        "MaxTimeInFreeCam": 10,
+
+        "AllowistZone":{
+            "1": { 
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "radius": 0.0
+            }
+        }
+    },
+
+    "AntiSpectate": {
+
+        "Enable": true
+    },
+
+
+    "AntiAimbot": {
+
+        "Enable": true,
+
+        "ContollWeapon": [
+            "WEAPON_PISTOL"
+        ]
+
+    },
+
+    "AntiTazePlayer": {
+        
+        "Enable": true
+    }
+
+
+}]
+
